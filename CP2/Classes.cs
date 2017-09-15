@@ -32,18 +32,25 @@ namespace CP2
             Console.WriteLine("Hi, my name is " + Name);
         }
 
-        //test
-
 		//Creating Objects
 		//Type of the class= Person
 		//Identifier= person
 		Person person = new Person();
 
         //This is the shorter way to do the same as above
-        //var person = new Person();
+        var person = new Person();
         
 		//Now that we have an object, we can access members of that object
 		person.Name = "June";
 		person.Introduce();
+
+
+
+        //Class Members
+
+        //Instance= Accessible from an object
+        //i.e.=
+        //var person = new Person()
+        //person.Introduce();
     }
 }
