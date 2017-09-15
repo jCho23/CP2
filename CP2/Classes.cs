@@ -32,6 +32,8 @@ namespace CP2
             Console.WriteLine("Hi, my name is " + Name);
         }
 
+        //test
+
 		//Creating Objects
 		//Type of the class= Person
 		//Identifier= person
