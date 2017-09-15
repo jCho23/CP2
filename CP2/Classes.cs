@@ -23,7 +23,16 @@ namespace CP2
     {
         //Put members of the class here
 
-        //Declaring a field
+        //Declaring a Field
+        //Here, Name is the identifier of the field
         public string Name;
+
+        //Declaring a Method
+        public void Introduce()
+        {
+            Console.WriteLine("Hi, my name is " + Name);
+        }
+
+
     }
 }
