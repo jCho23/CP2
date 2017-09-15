@@ -18,8 +18,7 @@ namespace CP2
     //Pascal Case= Used when naming Classes
     //camel Case= Used when naming parameter in Methods
 
-
-    public class Classes
+    public class Person
     {
         //Put members of the class here
 
@@ -27,12 +26,25 @@ namespace CP2
         //Here, Name is the identifier of the field
         public string Name;
 
+		//Creating Objects
+		//Type of the class= Person
+		//Identifier= person
+		Person person = new Person();
+		
+		//This is the shorter way to do the same as above
+		//var person = new Person();
+
+		//Now that we have an object, we can access members of that object
+		person.Name = "June";
+		person.Introduce();
+
         //Declaring a Method
         public void Introduce()
         {
             Console.WriteLine("Hi, my name is " + Name);
         }
 
-
     }
+
+
 }
