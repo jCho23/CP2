@@ -56,5 +56,10 @@ namespace CP2
         //Static= Accessible from the class
         //i.e.
         //Console.Writeline()
+        //Why use static members? = To represent concepts that are singleton
+        //Meaning, we should only have ONE INSTANCE of that object in memory
+        //You can use Static with any members of the class
+        //DateTime.Now
+        //Console.Writeline()
     }
 }
