@@ -11,10 +11,13 @@
 namespace CP2
 {
     //Declaring Classes
+    //Public= Access Modifer
+
+    //Nameing Conventions
+    //Pascal Case= 
+    //camel Case= used when naming parameter in Methods
     public class Classes
     {
-        public Classes()
-        {
-        }
+        //Put members of the class here
     }
 }
