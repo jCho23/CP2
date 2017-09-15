@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{E262C1EE-FA24-4540-AD5C-23E2AAABE831}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CP2/Classes.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CP2/Program.cs">
     <Files>
-      <File FileName="CP2/Classes.cs" Line="35" Column="15" />
+      <File FileName="CP2/Classes.cs" Line="61" Column="59" />
+      <File FileName="CP2/Program.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
