@@ -22,5 +22,8 @@ namespace CP2
     public class Classes
     {
         //Put members of the class here
+
+        //Declaring a field
+        public string Name;
     }
 }
