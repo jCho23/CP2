@@ -52,5 +52,9 @@ namespace CP2
         //i.e.=
         //var person = new Person()
         //person.Introduce();
+
+        //Static= Accessible from the class
+        //i.e.
+        //Console.Writeline()
     }
 }
